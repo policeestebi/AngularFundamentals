@@ -1,0 +1,6 @@
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\bin\AngularTutorial.dll.config
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\bin\AngularTutorial.dll
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\bin\AngularTutorial.pdb
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.dll
+C:\Users\Esteban\Desktop\AngularTutorial\AngularTutorial\obj\Debug\AngularTutorial.pdb
