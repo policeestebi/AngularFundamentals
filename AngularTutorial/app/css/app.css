@@ -38,3 +38,8 @@ select, textarea {
 .blue{
     color:blue;
 }
+
+
+input.ng-invalid.ng-dirty{
+    background-color:pink;
+}
