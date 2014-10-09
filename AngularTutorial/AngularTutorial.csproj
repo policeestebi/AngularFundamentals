@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="app\css\app.css" />
     <Content Include="app\css\bootstrap.min.css" />
+    <Content Include="app\EditProfile.html" />
     <Content Include="app\EventDetails.html" />
     <Content Include="app\favicon.ico" />
     <Content Include="app\img\angularjs-logo.jpg" />
@@ -66,6 +67,7 @@
     <Content Include="app\img\glyphicons-halflings.png" />
     <Content Include="app\js\app.js" />
     <Content Include="app\js\controllers\EditEventController.js" />
+    <Content Include="app\js\controllers\EditProfileController.js" />
     <Content Include="app\js\controllers\EventController.js" />
     <Content Include="app\js\controllers\EventListController.js" />
     <Content Include="app\js\directives.js" />
@@ -73,6 +75,7 @@
     <Content Include="app\js\services\authentication.js" />
     <Content Include="app\js\services\eventData.js" />
     <Content Include="app\js\services\eventResource.js" />
+    <Content Include="app\js\services\GravatarUrlBuilder.js" />
     <Content Include="app\lib\angular\angular-resource.min.js" />
     <Content Include="app\lib\angular\angular-route.min.js" />
     <Content Include="app\lib\angular\angular-sanitize.js" />
